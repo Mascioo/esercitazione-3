@@ -115,4 +115,12 @@ ul{
     margin-right: 56px;
 }
 
+
+.cont{
+    padding-top: 46px;
+    border-top:solid ;
+    border-width: 3px;
+    border-color:white ;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
